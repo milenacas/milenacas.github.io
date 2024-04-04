@@ -1,0 +1,128 @@
+{
+    "menu": {
+        "home": "Inicio",
+        "about": "Sobre mí",
+        "portfolio": "Portafolio",
+        "contact": "Contáctame"
+    },
+
+    "info-content": {
+        "name":  "Soy <span>Milena</span> Casarrubia",
+        "description": "Desarrolladora web principiante con conocimientos adicionales en otros lenguajes de programación, diseñadora y artista/ilustradora digital.<br> Totalmente preparada para dedicarme al trabajo duro y la excelencia."
+
+
+    },
+
+
+    "download-cv": {
+        "en": "Descargar CV"
+    },
+
+
+    "about-info1": {
+        "heading": "Sobre mí"
+    },
+
+
+    "paragraphs": {
+            "1":"¡Hola! Soy Milena Casarrubia, estudiante de diseño industrial.",
+            "2":"Con una gran pasión por el diseño de productos, la programación y el diseño web, me esfuerzo por continuar mi crecimiento profesional.",
+            "4":"Además, tengo 4 años de experiencia como freelancer, ofreciendo mis servicios en dibujo digital.",
+            "5":"Durante este tiempo, he tenido la oportunidad de llegar a varios clientes, centrándome en comprender sus necesidades y satisfacerlos con mi trabajo final."
+
+    },
+
+
+
+    "read_more": {
+            "reed": "Leer más"
+    },
+
+
+    "portfolio": {
+        "heading": "Mi Portafolio",
+        "experience_projects": "Experiencia / Proyectos",
+        "text1": "★ 2009 - 2019,<br> Escuela de Economía y Administración - CEF Fray Francisco de Paula Castañeda.",
+        "text2": "★ 2019-...<br> Diseño de Producto / Diseño Industrial ART COLLAGE - UNLP FACULTAD DE ARTES.",
+        "text3": "★ 2022-...<br> Freelance / creación de ilustraciones / personajes / webtoons en arte digital - FIVER",
+        "text4": "★ 2022-2023<br> Introducción a la Ciencia de la Computación CS50 - HARVARD",
+        "text5": "★ 2023-2024<br>Una guía completa para el diseño de juegos - HP - HPGG02",
+        "text6": "★ 2024-...<br>Curso de Introducción al Desarrollo Web: HTML y CSS - GOOGLE"
+    },
+
+
+    "cards": {
+            "title": "Programación",
+            "content":"Apasionado por el diseño web y la programación, ansioso por aprender y crecer en el desarrollo de sitios web. Con habilidades incipientes en HTML, CSS y JavaScript, mi objetivo es crear experiencias digitales cautivadoras y funcionales.",
+            "button_text":"Ver más",
+
+            "title2": "Arte Digital",
+            "content2":"Soy un apasionado artista digital con habilidades avanzadas en software de ilustración. Mi enfoque está en crear impresionantes piezas visuales que transmitan emociones y narrativas cautivadoras. Con experiencia en colaboraciones creativas, estoy constantemente empujando los límites del arte digital.",
+            "button_text": "Ver más",
+
+            "title3":"Diseño",
+            "content3":"Soy estudiante de diseño industrial apasionado por crear productos innovadores que combinen funcionalidad y estética de manera armoniosa, transformando ideas en soluciones tangibles y atractivas. Además, he trabajado en equipos y colaborando para garantizar que las necesidades y expectativas del usuario se cumplan con excelencia.",
+            "button_text":"Ver más"
+
+        },
+
+        "portfolio3": {
+            "title": "Algunos diseños de productos en 3D...",
+
+            "cards1": "Cafetera",
+            "description1": "Una cafetera eléctrica para una taza - 2023",
+
+
+            "cards2": "Volante de taxi",
+            "description2": "Volante con soporte para teléfono celular - 2023",
+
+
+            "cards3": "Tamiz",
+            "description3": "Tamiz de vidrio para residuos con aislante de ruido - 2023",
+
+            "cards4": "Silla",
+            "description4": "Silla ergonómica para ilustradores digitales - 2023",
+
+            "cards5": "Huerto de vegetales",
+            "description5": "Huerta educativo para niños - 2022",
+
+            "cards6": "Personaje 3D",
+            "description6": "amistoso Zorro personaje propio - 2022",
+
+            "cards7": "Taxi",
+            "description7": "Auto eléctrico - 2023",
+
+            "cards8": "Luz planta",
+            "description8": "Lámpara de pie con luz móvil - 2022",
+
+            "cards9": "Control",
+            "description9": "Control para altavoz de música con luces LED - 2022"
+
+        },
+
+        "illustrations": {
+            "titleA": "Algunas ilustraciones ...",
+            "title": "Art street illustration book 2022 - medibang",
+            "description": "Publicación como artista certificado - página 121"
+        },
+
+        "skills": {
+            "title":"Habilidades en Lenguajes de Programación"
+        },
+
+
+        "contact": {
+            "title":"Ponte en contacto",
+            "title2":"Conmigo",
+            "phone":"Teléfono",
+            "email":"Contáctame",
+            "location": "Ubicación"
+        },
+
+        "contact_info": {
+                "phone": "-",
+                "email": "milenacasarrubiamc@gmail.com",
+                "location": "Argentina, Buenos Aires"
+        }
+
+}

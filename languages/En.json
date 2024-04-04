@@ -1,0 +1,128 @@
+{
+    "menu": {
+        "home": "home",
+        "about": "About Me",
+        "portfolio": "Portfolio",
+        "contact": "Contact Me"
+    },
+
+    "info-content": {
+        "name":  "I'm <span>Milena</span> Casarrubia",
+        "description": "Novice web developer with additional knowledge in other programming languages, designer, and digital artist/illustrator.<br> Fully prepared to dedicate myself to hard work and excellence."
+
+
+    },
+
+
+    "download-cv": {
+        "en": "Download CV"
+    },
+
+
+    "about-info1": {
+        "heading": "About me"
+    },
+
+
+    "paragraphs": {
+            "1":"Hello! I'm Milena Casarrubia, a student of industrial design.",
+            "2":"With a deep-seated passion for product design, programming, and web design, I strive to further my professional growth.",
+            "4":"Additionally, I have 4 years of experience as a freelancer, offering my services in digital drawing.",
+            "5":"During this time, I've had the opportunity to reach several clients, with a focus on understanding their needs and satisfying them with my final work."
+
+    },
+
+
+
+    "read_more": {
+            "reed": "Read more"
+    },
+
+
+    "portfolio": {
+        "heading": "My Portfolio",
+        "experience_projects": "Experience / Projects",
+        "text1": "★ 2009 - 2019,<br> Economic and administration School - CEF Fray Francisco de paula Castañeda.",
+        "text2":  "★ 2019-...<br> Product Design / Industrial Design ART COLLAGE - UNLP FACULTAD DE ARTES.",
+        "text3": "★ 2022-...<br> Freelancing / creating illustrations / characters / webtoons on digital art - FIVER",
+        "text4":  "★ 2022-2023<br> CS50’s Introduction to Computer Science - HARVARD",
+        "text5": "★ 2023-2024<br>A Complete Guide to Game Design - HP - HPGG02",
+        "text6": "★ 2024-...<br>Introduction to Web Development Course: HTML and CSS - GOOGLE"
+    },
+
+
+    "cards": {
+            "title": "Coding",
+            "content":"Passionate about web design and programming, eager to learn and grow in website development. With budding skills in HTML, CSS, and JavaScript, I aim to create captivating and functional digital experiences.",
+            "button_text":"See more",
+
+            "title2": "Digital Art",
+            "content2":"I'm a passionate digital artist with advanced skills in illustration software. My focus is on creating stunning visual pieces that convey emotions and captivating narratives. With experience in creative collaborations, I'm constantly pushing the boundaries of digital art.",
+            "button_text": "See more",
+
+            "title3":"Design",
+            "content3":"I'm a student of industrial design passionate about creating innovative products that combine functionality and aesthetics in a harmonious way, transforming ideas into tangible and attractive solutions. Also, I've worked in teams and collaborating to ensure the user needs and expectations are met with excellence.",
+            "button_text":"See more"
+
+        },
+
+        "portfolio3": {
+            "title": "Some 3D Product Designs...",
+
+            "cards1": "Coffee Maker",
+            "description1": "A coffe maker electric for a cup - 2023",
+
+
+            "cards2": "Taxi steering wheel",
+            "description2": "Steering wheel with cell phone holder- 2023",
+
+
+            "cards3": "Sifter",
+            "description3": "Glass waste sifter with noise insulator- 2023",
+
+            "cards4": "Chair",
+            "description4": "Ergonomic digital illustrators chair- 2023",
+
+            "cards5": "Vegetable garden",
+            "description5": "Educational garden for children - 2022",
+
+            "cards6": "3D Character",
+            "description6": "friendly fox oc - 2022",
+
+            "cards7": "Taxi",
+            "description7": "Electric car - 2023",
+
+            "cards8": "Plant lights",
+            "description8": "Floor lamp with a movable light - 2022",
+
+            "cards9": "Control",
+            "description9": "Control for music speaker with LED lights - 2022"
+
+        },
+
+        "illustrations": {
+            "titleA": "Some illustrations ...",
+            "title": "Art street illustration book 2022 - medibang",
+            "description": "Publication as a certified artist - page 121"
+        },
+
+        "skills": {
+            "title":"Programming Language Skills"
+        },
+
+
+        "contact": {
+            "title":"Get In Touch",
+            "title2":"with me",
+            "phone":"Phone",
+            "email":"Contact me",
+            "location": "Location"
+            },
+
+        "contact_info": {
+                "phone": "-",
+                "email": "milenacasarrubiamc@gmail.com",
+                "location": "Argentina, Buenos Aires"
+            }
+
+}
